@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListView_Dec7am</string>
+    <string-array name="states">
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Telangana</item>
+        <item>Kerala</item>
+        <item>Karnataka</item>
+        <item>Madhya Pradesh</item>
+        <item>Tamilnadu</item>
+        <item>Goa</item>
+         </string-array>
+
+</resources>
